@@ -1,4 +1,4 @@
-# Node.js Random Emoji Generator
+# Node.js Random Color Generator
 
 When the program is not run with any input, print a random emoji:
 
